@@ -6,3 +6,5 @@ Please note that all materials are provided as-is and without any acceptance of 
 Please also pay close attention to the license conditions which can be found here:
 
 https://github.com/RonRichman/capecod_workshop/blob/main/LICENSE
+
+Thank you to Kovlin Perumal for help coding up the attached Jupyter notebook.
