@@ -7,4 +7,4 @@ Please also pay close attention to the license conditions which can be found her
 
 https://github.com/RonRichman/capecod_workshop/blob/main/LICENSE
 
-Thank you to Kovlin Perumal for help coding up the attached Jupyter notebook.
+Thank you to Kovlin Perumal for help coding up the attached Jupyter notebook and for members of the OMI ACF team for peer review.
